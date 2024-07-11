@@ -15,5 +15,6 @@ jQuery v3.6.0<br>
 
 ![promo](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/17ec1fd3-82b0-437d-bacf-08a1beb3c931)<br>
 
-
+Controller and view interactions<br>
+![controllerAndViewInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/99aa1169-2cee-45d8-9d82-8615cd125c52)<br>
 
