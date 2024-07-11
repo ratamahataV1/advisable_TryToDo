@@ -23,3 +23,6 @@ Database interactions<br>
 
 Model interactions and database interactions<be>
 ![modelInteractionsAndDatabaseInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/75cf7586-1e9f-4a16-9d34-1016e8626267)<br>
+
+Role of views in the interactions between controllers and models<br>
+![viewsControllersModels](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/9407f494-74ca-484a-abb6-7eb6d43c0b62)<br>
