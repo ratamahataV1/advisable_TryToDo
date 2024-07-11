@@ -13,6 +13,7 @@ Dbclient libmysql - mysqlnd v7.4.33<br>
 tailwindcss v2.2.19<br>
 jQuery v3.6.0<br>
 
-[promo.webm](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/68c24180-77b5-4620-97b9-8dfb04124882)<br>
+![promo](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/17ec1fd3-82b0-437d-bacf-08a1beb3c931)<br>
+
 
 
