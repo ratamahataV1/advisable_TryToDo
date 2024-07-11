@@ -18,3 +18,5 @@ jQuery v3.6.0<br>
 Controller and view interactions<br>
 ![controllerAndViewInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/99aa1169-2cee-45d8-9d82-8615cd125c52)<br>
 
+Database interactions<br>
+![databaseInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/a7fa5154-1f7b-46e7-b47c-b29fe8c598a5)<br>
