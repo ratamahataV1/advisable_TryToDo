@@ -3,11 +3,12 @@
 tryToDo WebApp(backEnd)
 
 -Stack<br>
-Wampserver 3.3.5<br>
-Apache 2.4.59<br>
-PHP 7.4.33<br>
-MariaDB 11.3.2<br>
-CodeIgniter v3<br>
-phpMyAdmin 5.2.1<br>
-HeidiSQL 12.7<br>
-Composer v2.7.7
+codeigniter v.3<br>
+PHP v7.4.33<br>
+phpMyAdmin v5.2.0<br>
+Composer v2.7.7<br>
+MariaDB v10.4.27<br>
+Apache/2.4.54<br>
+Dbclient libmysql - mysqlnd v7.4.33<br>
+tailwindcss v2.2.19<br>
+jQuery v3.6.0<br>
