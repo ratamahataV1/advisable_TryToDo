@@ -20,3 +20,6 @@ Controller and view interactions<br>
 
 Database interactions<br>
 ![databaseInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/a7fa5154-1f7b-46e7-b47c-b29fe8c598a5)<br>
+
+Model interactions and database interactions<be>
+![modelInteractionsAndDatabaseInteractions](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/75cf7586-1e9f-4a16-9d34-1016e8626267)<br>
