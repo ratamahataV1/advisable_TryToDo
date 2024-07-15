@@ -26,8 +26,8 @@ jQuery v3.6.0<br>
 
 ## Prerequisites
 
-1. **XAMPP**: Ensure XAMPP is installed on your machine.
-2. **Composer**: Ensure Composer is installed on your machine.
+1. [**XAMPP**](https://www.apachefriends.org/index.html): Ensure XAMPP is installed on your machine.
+2. [**Composer**](https://getcomposer.org/): Ensure Composer is installed on your machine.
 
 ### Linux
 
