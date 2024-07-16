@@ -89,5 +89,5 @@ jQuery v3.6.0<br>
 - Check the database credentials and ensure the database is correctly imported.
 - If there are permission issues on Linux, ensure the application directory has the correct permissions:
   ```
-  sudo chown -R $USER:www-data /path/to/tryToDo_app
-  sudo chmod -R 775 /path/to/tryToDo_app
+  sudo chown -R $USER:www-data /opt/lampp/htdocs/tryToDo
+  sudo chmod -R 775 /opt/lampp/htdocs/tryToDo
