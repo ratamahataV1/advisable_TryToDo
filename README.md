@@ -86,7 +86,7 @@ jQuery v3.6.0<br>
 ## Troubleshooting
 
 - Ensure XAMPP and Composer are correctly installed and configured.
-- Check the database credentials and ensure the database is correctly imported.
+- Check the database credentials (see the [docs](https://github.com/ratamahataV1/advisable_TryToDo/blob/main/doc.pdf)) and ensure the database is correctly imported.
 - If there are permission issues on Linux, ensure the application directory has the correct permissions:
   ```
   sudo chown -R $USER:www-data /opt/lampp/htdocs/tryToDo
