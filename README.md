@@ -1,6 +1,6 @@
 ![310553524_525906182873797_838120229663963187_n](https://github.com/ratamahataV1/advisable_TryToDo/assets/11263014/4f191a17-a994-4926-820a-e7a598b3777c)<br>
 
-TryToDo WebApp(backEnd)<br>
+TryToDo WebApp(fullStack)<br>
 
 Application Overview<br>
 The application is a user management system that includes features for user registration,<br> 
