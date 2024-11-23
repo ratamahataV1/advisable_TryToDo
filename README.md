@@ -28,7 +28,7 @@ jQuery v3.6.0<br>
 
 1. [**XAMPP**](https://www.apachefriends.org/index.html): Ensure XAMPP is installed on your machine.
 2. [**Composer**](https://getcomposer.org/): Ensure Composer is installed on your machine.
-3. [**MailHog**](https://github.com/ratamahataV1/MailHog): For email [testing](https://github.com/ratamahataV1/advisable_TryToDo/blob/main/application/config/email.php) (optional)
+3. [**MailHog**](https://github.com/mailhog/MailHog): For email [testing](https://github.com/ratamahataV1/advisable_TryToDo/blob/main/application/config/email.php) (optional)
 
 ### Linux
 
